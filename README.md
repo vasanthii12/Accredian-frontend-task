@@ -2,6 +2,12 @@
 
 A React-based frontend for the referral marketing platform.
 
+![Dashboard](dashboard/1.jpg)
+
+![Dashboard](dashboard/2.jpg)
+
+![Dashboard](dashboard/3.jpg)
+
 ## Setup Instructions
 
 1. Clone the repository
