@@ -20,22 +20,6 @@ npm install
 ```bash
 npm run dev
 ```
-
-## Environment Variables
-
-Create a `.env` file with these variables:
-```
-VITE_API_URL=<your-backend-api-url>
-```
-
-## Deployment on Vercel
-
-1. Push your code to GitHub
-2. Create an account on Vercel (https://vercel.com)
-3. Create a new project and import your GitHub repository
-4. Set the environment variables in Vercel dashboard
-5. Deploy!
-
 ## Features
 - Referral form with validation
 - Beautiful UI with Tailwind CSS
